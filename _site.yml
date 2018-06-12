@@ -1,0 +1,9 @@
+name: "sankalps-website"
+output_dir: "."
+navbar:
+  title: "Sankalp's Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
