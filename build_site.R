@@ -6,3 +6,4 @@ setwd("/Users/Sankalp Devasthali/Desktop/Assignments/sankalp_website/personal_si
 
 #render your sweet site. 
 rmarkdown::render_site()
+
