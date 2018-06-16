@@ -4,7 +4,8 @@ title: "My Digital Footprint"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/sankalp.jpg" style="width:50%; border:6px solid; margin-right: 12px" align="left">
+<img src="images/sankalp.jpg" > 
+#style="width:50%; border:6px solid; margin-right: 12px" align="left">
 
 I am a Master's student at Carnegie Mellon University pursuing a degree in Information Systems Management with a concentration in Business Intelligence and Data Analytics. I seek to apply a blend of computer science and management practices to improve businesses or benefit governments and their allied organizations.
 
@@ -16,5 +17,4 @@ I am currently interning at Van Eck, an Investment Management Firm based out of 
 
 
 
-
-Welcome to my digital footprint!
+## Welcome to my digital footprint!

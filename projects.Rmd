@@ -1,69 +1,55 @@
 ---
-title: "projects"
+title: "My Projects"
 ---
 
-My projects are - 
+<link rel="stylesheet" href="styles.css" type="text/css">
 
-    Breaking Captcha Images through Machine Learning (Jan 2018 – May 2018)
+### Breaking Captcha Images through Machine Learning  
+Carnegie Mellon, (Jan 2018 - May 2018)
+  
 
-    Project description
-    Employing Feature extraction and Learning Techniques to automatically break Captcha and suggest their obsolescence under current developments in online bot user verification.
+Employing Feature extraction and Learning Techniques to automatically break Captcha and suggest	 their obsolescence under current developments in online bot user verification.
+  Technical Details -:
+  * Language - Python
+  * Modules - Scikit-Learn, Keras, Tensorflow, NumPy, OpenCV
+  * Dataset - Self Generated Dataset of 10,000 images
+  * Other creators: Jaagrit Arora, Garvit Harisinghani
+	
+### Measuring Effect of Product Placement on Online Platforms (Jan 2018 - Mar 2018)
+  Performed Randomized Control Trials (A/B Test) using Difference in Differences Regression to		assess the impact of product placement on online platforms to measure customer engagement
+  Outcome: For our data, which consisted majorly of US-based inputs ( 57%) and India based inputs	 (33%), we saw that - Yes, on an average with all other things constant, there is a 21% drop in	  selection of a product if it is moved from the first row to the last row of a product listing	   grid.
+  Other creators: Manali Killedar, Meghna Jani, Garvit Harisinghani
+	
+### Ham and Spam E-Mail Classification  
 
-    Technical Details -:
-    Language - Python
-    Modules - Scikit-Learn, Keras, Tensorflow, NumPy, OpenCV
-    Dataset - Self Generated Dataset of 10,000 images
-    Other creators - Jaagrit Arora, Garvit Harisinghani
-    
-    Measuring Effect of Product Placement on Online Platforms (Jan 2018 – Mar 2018)
 
-    Project description
-    Performed Randomized Control Trials (A/B Test) using Difference in Differences Regression to assess the impact of product placement on online platforms to measure customer engagement
+Carnegie Mellon, (Jan 2018 - Feb 2018)
+Deployed Na�ve Bayes, K-Nearest Neighbours (KNN), and Support Vector Machine (SVM) Classifiers to predict Ham and Spam emails by finding the best validation fit using k-folds cross-validation.  
+Other creators: Garvit Harisinghani, Jaagrit Arora, Manali Killedar
+	
+### Calculating Cost to Install Green Infrastructure in Pittsburgh City (Oct 2017 - Dec 2017)
 
-    Outcome: For our data, which consisted majorly of US-based inputs ( 57%) and India based inputs (33%), we saw that - Yes, on an average with all other things constant, there is a 21% drop in selection of a product if it is moved from the first row to the last row of a product listing grid.
-    Other creators - Manali Killedar, Meghna Jani, Garvit Harisinghani
-    
-    Project name Ham and Spam E-Mail Classification (Jan 2018 – Feb 2018)
 
-    Project description
-    Deployed Naïve Bayes, K-Nearest Neighbours (KNN), and Support Vector Machine (SVM) Classifiers to predict Ham and Spam emails by finding the best validation fit using k-folds cross-validation
-    Other creators - Garvit Harisinghani, Jaagrit Arora, Manali Killedar
-    Edit project Calculating Cost to Install Green Infrastructure in Pittsburgh City
-    Project name Calculating Cost to Install Green Infrastructure in Pittsburgh City
+Analysed a quarter million records of Pittsburgh Water and Sewer Authority through Regression models to estimate the rebate amount required to compensate Pittsburgh city homeowners to install green infrastructure
 
-    Oct 2017 – Dec 2017
+### Database Management System for Consulting Firm (Aug 2017 - Dec 2017)
 
-    Project description
-    Analysed a quarter million records of Pittsburgh Water and Sewer Authority through Regression models to estimate the rebate amount required to compensate Pittsburgh city homeowners to install green infrastructure
-    Edit project Database Management System for Consulting Firm
-    Project name Database Management System for Consulting Firm
 
-    Aug 2017 – Dec 2017
+Designed an Employee Management System using a Relational DBMS in Oracle 11g and provided insightful reports on employee performance, project earnings, and client engagement through analytical statements
 
-    Project description
-    Designed an Employee Management System using a Relational DBMS in Oracle 11g and provided insightful reports on employee performance, project earnings, and client engagement through analytical statements
-    Edit project Gym Workout Scheduler using GUI
-    Project name Gym Workout Scheduler using GUI
+### Gym Workout Scheduler using GUI (Aug 2017 - Dec 2017)
 
-    Aug 2017 – Dec 2017
 
-    Project description
-    Created a GUI based gym workout calculator utilizing inheritance, polymorphism, data structures, and JavaFX
-    Edit project Software Complexity and Effort Required for Software Maintenance
-    Project name Software Complexity and Effort Required for Software Maintenance
+Created a GUI based gym workout calculator utilizing inheritance, polymorphism, data structures, and JavaFX
 
-    Aug 2017 – Oct 2017
+### Software Complexity and Effort Required for Software Maintenance (Aug 2017 - Oct 2017)
 
-    Project description
-    Deployed hypothesis testing and regression to measure the effects of Project’s functional points, team size, and experience, tools used, etc in improving efficiency of software maintenance
-    Other creator
-    Shreeya Laad
-    Edit project Joule Thief - Wasted Heat Cellphone Charger
-    Project name Joule Thief - Wasted Heat Cellphone Charger
 
-    Aug 2014 – Jun 2015
+Deployed hypothesis testing and regression to measure the effects of Project's functional points, team size, and experience, tools used, etc in improving efficiency of software maintenance
+Other creator:	Shreeya Laad
+	
+### Joule Thief - Wasted Heat Cellphone Charger (Aug 2014 - Jun 2015)
 
-    Project description
-    An Innovative way to utilizing the most abundant source of wasted energy in the world
-    Other creators
-    Pawan Bajaj Richa Bathija Grishma Mehta
+
+An Innovative way to utilizing the most abundant source of wasted energy in the world
+Other creators:	Pawan Bajaj, Richa Bathija, Grishma Mehta
