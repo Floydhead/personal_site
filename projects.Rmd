@@ -24,10 +24,10 @@ Employing Feature extraction and Learning Techniques to automatically break Capt
 
 
 Carnegie Mellon, (Jan 2018 - Feb 2018)
-Deployed Naïve Bayes, K-Nearest Neighbours (KNN), and Support Vector Machine (SVM) Classifiers to predict Ham and Spam emails by finding the best validation fit using k-folds cross-validation.  
+Deployed NaÃ¯ve Bayes, K-Nearest Neighbours (KNN), and Support Vector Machine (SVM) Classifiers to predict Ham and Spam emails by finding the best validation fit using k-folds cross-validation.  
 Other creators: Garvit Harisinghani, Jaagrit Arora, Manali Killedar
 	
-### Calculating Cost to Install Green Infrastructure in Pittsburgh City (Oct 2017 - Dec 2017)
+### Calculating Cost to Install Green Infrastructure in Pittsburgh City (Oct 2017 - Dec 2017) 
 
 
 Analysed a quarter million records of Pittsburgh Water and Sewer Authority through Regression models to estimate the rebate amount required to compensate Pittsburgh city homeowners to install green infrastructure
