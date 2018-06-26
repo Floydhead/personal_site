@@ -22,8 +22,9 @@ Employing Feature extraction and Learning Techniques to automatically break Capt
 	
 ### Ham and Spam E-Mail Classification  
 
+
 Carnegie Mellon, (Jan 2018 - Feb 2018)
-Deployed NaÃ¯ve Bayes, K-Nearest Neighbours (KNN), and Support Vector Machine (SVM) Classifiers to predict Ham and Spam emails by finding the best validation fit using k-folds cross-validation.  
+Deployed Naïve Bayes, K-Nearest Neighbours (KNN), and Support Vector Machine (SVM) Classifiers to predict Ham and Spam emails by finding the best validation fit using k-folds cross-validation.  
 Other creators: Garvit Harisinghani, Jaagrit Arora, Manali Killedar
 	
 ### Calculating Cost to Install Green Infrastructure in Pittsburgh City (Oct 2017 - Dec 2017)
