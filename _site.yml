@@ -8,7 +8,7 @@ navbar:
     - text: "Projects"
       href: projects.html
     - text: "Resume"
-      href: resume.html
+      href: "ResumeSankalpDevasthaliDataScienceJune.pdf"
     - text: "Contact Me"
       href: contact.html
   right:
